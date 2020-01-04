@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+cifar-10_data
+train_log
+
